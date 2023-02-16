@@ -1,0 +1,4 @@
+ex2-1.c: In function ‘main’:
+ex2-1.c:6:2: warning: unknown conversion type character 0xa in format [-Wformat=]
+  printf("\%\n");
+  ^
